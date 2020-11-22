@@ -1,0 +1,15 @@
+﻿  Main.cpp
+  displayEntity.cpp
+D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\src\displayEntity.cpp(55,11): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\src\displayEntity.cpp(56,11): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\src\displayEntity.cpp(81,12): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\src\displayEntity.cpp(82,12): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\src\displayEntity.cpp(88,12): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\src\displayEntity.cpp(103,48): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\src\displayEntity.cpp(131,44): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\src\displayEntity.cpp(131,33): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\src\displayEntity.cpp(131,22): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\src\displayEntity.cpp(173,23): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\src\displayEntity.cpp(170,6): warning C4101: “numb”: 未引用的局部变量
+  正在生成代码...
+  EulerOperations_lyb.vcxproj -> D:\研一上课件\三维cad建模\三维CAD建模_刘宇彪\EulerOperations_lyb\Debug\EulerOperations_lyb.exe
